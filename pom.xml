@@ -8,7 +8,7 @@
     </parent>
     <groupId>com.mycompany.app</groupId>
     <artifactId>my-app</artifactId>
-    <version>3.0.X-SNAPSHOT</version>
+    <version>3.X-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>my-app</name>
